@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GDG Pisa Chat</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign out</string>
+</resources>
